@@ -1,0 +1,12 @@
+.cf7-hide {
+    display: none !important;
+}
+.cf7-calculated-name {
+    width: 100%;
+}
+.cf7-total-right, .cf7-total-right input{
+    text-align: right !important;
+}
+.cf7-block {
+    display: inline-block;
+}
