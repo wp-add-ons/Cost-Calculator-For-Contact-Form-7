@@ -1,16 +1,5 @@
-=== Contact Form 7 Cost Calculator - Price Calculator Free ===
-Contributors: Rednumber
-Tags: cf7, contact form 7,Cost Calculator, Calculator form
-Requires at least: 4.0
-Tested up to: 6.4.1
-Stable tag: 1.6
-Requires PHP: 5.2
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Cost calculator for contact form 7
 
-With Contact Form 7 Cost Calculator – Price Calculation Form you can create forms with dynamically calculated fields to display the calculated values!
-
-== Description ==
 [youtube https://www.youtube.com/watch?v=oWd01ky8V7I]
 **DEMO**: <https://calculator.add-ons.org/>
 Contact Form 7 Cost Calculator - Price Calculator which allows you to easily create quote or price estimate forms for Contact form 7.
